@@ -1,0 +1,7 @@
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

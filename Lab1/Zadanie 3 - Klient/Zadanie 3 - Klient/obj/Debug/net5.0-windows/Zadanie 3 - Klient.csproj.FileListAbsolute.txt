@@ -1,0 +1,26 @@
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\Zadanie 3 - Klient.exe
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\Zadanie 3 - Klient.deps.json
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\Zadanie 3 - Klient.runtimeconfig.json
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\Zadanie 3 - Klient.runtimeconfig.dev.json
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\Zadanie 3 - Klient.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\ref\Zadanie 3 - Klient.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\Zadanie 3 - Klient.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.csproj.AssemblyReference.cache
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie_3___Klient.Form1.resources
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.csproj.GenerateResource.cache
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.AssemblyInfoInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.AssemblyInfo.cs
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\ref\Zadanie 3 - Klient.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.genruntimeconfig.cache
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\System.Private.ServiceModel.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\kacpe\STUDIA\Semestr 4\REST-CSharp\REST-CSharp\Lab1\Zadanie 3 - Klient\Zadanie 3 - Klient\obj\Debug\net5.0-windows\Zadanie 3 - Klient.csproj.CopyComplete

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlcAEG6DCIQxZKV13wnWaVBrpJ6Kii3V4N+pTukJxjnIpzShMyYaUidecC0BoxIc69syhGknfHsd1IL84aMvUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kacpe\\STUDIA\\Semestr 4\\REST-CSharp\\REST-CSharp\\Lab1\\Zadanie 3 - Klient\\Zadanie 3 - Klient\\Zadanie 3 - Klient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.private.servicemodel\\4.8.1\\system.private.servicemodel.4.8.1.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.reflection.dispatchproxy\\4.7.1\\system.reflection.dispatchproxy.4.7.1.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.security.cryptography.xml\\4.7.0\\system.security.cryptography.xml.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.servicemodel.duplex\\4.8.1\\system.servicemodel.duplex.4.8.1.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.servicemodel.http\\4.8.1\\system.servicemodel.http.4.8.1.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.servicemodel.nettcp\\4.8.1\\system.servicemodel.nettcp.4.8.1.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.servicemodel.primitives\\4.8.1\\system.servicemodel.primitives.4.8.1.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.servicemodel.security\\4.8.1\\system.servicemodel.security.4.8.1.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
